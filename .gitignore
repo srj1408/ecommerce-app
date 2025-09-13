@@ -1,0 +1,17 @@
+# Backend (Spring Boot)
+ecommerce-backend/target/
+ecommerce-backend/*.log
+ecommerce-backend/src/main/resources/application.properties
+ecommerce-backend/.idea/
+
+# Frontend (Vite/Node)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.idea/
+
+# macOS
+.DS_Store
+
+# General IDE files
+*.iml
